@@ -1,2 +1,2 @@
-# aula-1
+# class-1
 tutorial - channel Vida FullStack
